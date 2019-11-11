@@ -5,3 +5,4 @@
 layout: home
 ---
 hello world
+<img src="/assets/alt_cover.png"/>
