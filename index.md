@@ -4,8 +4,8 @@ layout: default
 
 # DIRECTORY
 
-[CV](./cv)
+[CV](./https://registry.jsonresume.org/rrrach)
 
-[Cover Letter](/coverletter) (coming soon!)
+[Cover Letter](./coverletter) (coming soon!)
 
-[Portfolio Gallery](/portfolio) (coming soon!)
+[Portfolio Gallery](./portfolio) (coming soon!)
