@@ -4,8 +4,8 @@ layout: default
 
 # DIRECTORY
 
-[CV](./cv).
+[CV](./cv)
 
-[Cover Letter](/coverletter). (coming soon!)
+[Cover Letter](/coverletter) (coming soon!)
 
-[Portfolio Gallery](/portfolio). (coming soon!)
+[Portfolio Gallery](/portfolio) (coming soon!)
