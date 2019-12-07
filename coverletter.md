@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#COVER LETTER
+# COVER LETTER
 
 <dl>
 <dt>Name</dt>
